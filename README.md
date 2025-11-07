@@ -5,6 +5,11 @@ This is a simple React application initialized using Vite inside a Node.js Dev C
 ## Commit Link - 
 https://github.com/Leeshleeshma/profiles-app/commit/4d9e484598093637e34df5807813249857e5d1e1
 
+![Cards](<Screenshot 2025-11-05 at 11.25.14 AM.png>)
+
+## Commit Link - 
+https://github.com/Leeshleeshma/profiles-app/commit/58897a241c6eac6e3dbc8e8a75d61f087dd8fe24
+
 ## Page URL
 https://leeshleeshma.github.io/profiles-app/
 
@@ -40,3 +45,9 @@ npm run build
 ## Notes
 - Uses React + React-Bootstrap.
 - We use components, props, and `.map()`.
+
+## Part-5 
+
+![error1](<Screenshot 2025-11-07 at 1.39.50 PM.png>) 
+![error2](<Screenshot 2025-11-07 at 1.40.04 PM.png>) 
+![error3](<Screenshot 2025-11-07 at 12.21.53 PM.png>)
